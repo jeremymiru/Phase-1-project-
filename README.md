@@ -36,7 +36,7 @@ HTML
 CSS
 
 ## Support and contact details
-github.com/jeremy-kariuki
+github.com/jeremymiru 
 
 ### License
 The content of this site is licensed under the MIT license
